@@ -1,0 +1,15 @@
+node_modules/
+out/
+dist/
+*.log
+*.tsbuildinfo
+.DS_Store
+.idea/
+.vscode/
+.env
+.env.local
+*.tlog
+!fixtures/*.tlog
+logs/
+test-results/
+playwright-report/
